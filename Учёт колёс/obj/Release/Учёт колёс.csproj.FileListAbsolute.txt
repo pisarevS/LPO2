@@ -1,0 +1,9 @@
+D:\Учёт колёс\bin\Release\Учёт колёс.exe
+D:\Учёт колёс\bin\Release\Учёт колёс.pdb
+D:\Учёт колёс\obj\Release\Учёт_колёс.Form1.resources
+D:\Учёт колёс\obj\Release\Учёт_колёс.Properties.Resources.resources
+D:\Учёт колёс\obj\Release\Учёт колёс.csproj.GenerateResource.cache
+D:\Учёт колёс\obj\Release\Учёт колёс.csproj.CoreCompileInputs.cache
+D:\Учёт колёс\obj\Release\Учёт колёс.exe
+D:\Учёт колёс\obj\Release\Учёт колёс.pdb
+D:\Учёт колёс\obj\Release\Учёт колёс.csproj.AssemblyReference.cache

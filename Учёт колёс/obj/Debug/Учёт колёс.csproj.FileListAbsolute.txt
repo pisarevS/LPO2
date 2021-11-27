@@ -1,0 +1,55 @@
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.pdb
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Form1.resources
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.exe
+C:\Users\Admin\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.pdb
+D:\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe
+D:\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.pdb
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csprojAssemblyReference.cache
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Form1.resources
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Properties.Resources.resources
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.GenerateResource.cache
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.CoreCompileInputs.cache
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.exe
+D:\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.pdb
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.pdb
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Form1.resources
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Properties.Resources.resources
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.GenerateResource.cache
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.CoreCompileInputs.cache
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.exe
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.pdb
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe.CodeAnalysisLog.xml
+D:\GitHubNTZ\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe.lastcodeanalysissucceeded
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.pdb
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csprojAssemblyReference.cache
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Form1.resources
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Properties.Resources.resources
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.GenerateResource.cache
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.CoreCompileInputs.cache
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.exe
+D:\GitHub\NTZ\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.pdb
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.exe
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\bin\Debug\Учёт колёс.pdb
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Form1.resources
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт_колёс.Properties.Resources.resources
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.exe
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.pdb
+C:\Users\1\Desktop\Учёт колёс\Учёт колёс\obj\Debug\Учёт колёс.csproj.AssemblyReference.cache
+D:\Учёт колёс\bin\Debug\Учёт колёс.exe
+D:\Учёт колёс\bin\Debug\Учёт колёс.pdb
+D:\Учёт колёс\obj\Debug\Учёт колёс.csproj.AssemblyReference.cache
+D:\Учёт колёс\obj\Debug\Учёт_колёс.Form1.resources
+D:\Учёт колёс\obj\Debug\Учёт_колёс.Properties.Resources.resources
+D:\Учёт колёс\obj\Debug\Учёт колёс.csproj.GenerateResource.cache
+D:\Учёт колёс\obj\Debug\Учёт колёс.csproj.CoreCompileInputs.cache
+D:\Учёт колёс\obj\Debug\Учёт колёс.exe
+D:\Учёт колёс\obj\Debug\Учёт колёс.pdb
